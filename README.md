@@ -256,7 +256,7 @@ public class SongController {
 }
 ```
 
-#### :o: UserController.java
+#### :o: PlayListController.java
 ```java
 @RestController
 public class PlaylistController {
