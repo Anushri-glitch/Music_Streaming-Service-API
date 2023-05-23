@@ -27,7 +27,7 @@ public class UserService {
     IAdminDao adminDao;
 
     @Autowired
-    AuthenticateService authenticateService;
+    AuthService authenticateService;
 
     public SignUpOutput SignUp(SignUpInput signUpDto) {
 
