@@ -544,15 +544,10 @@ select * from auth_token_admin;
 #### :o: [Sending Mail By JAVA](https://github.com/Anushri-glitch/SendMail-Application)
 
 :arrow_right: ![Screenshot (844)](https://github.com/Anushri-glitch/Music_Streaming-Service-API/assets/47708011/2fe46e6f-0ee4-4e2c-88df-41e30af9f564)
-
 :arrow_right: ![Screenshot (845)](https://github.com/Anushri-glitch/Music_Streaming-Service-API/assets/47708011/99416677-8a7b-4f92-bb60-9c7db2da2174)
-
 :arrow_right: ![Screenshot (846)](https://github.com/Anushri-glitch/Music_Streaming-Service-API/assets/47708011/bced6929-a532-4509-8db5-1bae7508bcdf)
-
 :arrow_right: ![Screenshot (847)](https://github.com/Anushri-glitch/Music_Streaming-Service-API/assets/47708011/42fc552c-c670-4358-ac11-d340dbdf49c0)
-
 :arrow_right: ![Screenshot (848)](https://github.com/Anushri-glitch/Music_Streaming-Service-API/assets/47708011/73e7f501-6fad-4acc-83e6-0239c56ef8bd)
-
 :arrow_right: ![Screenshot (849)](https://github.com/Anushri-glitch/Music_Streaming-Service-API/assets/47708011/bcc0169d-e274-49e9-8afa-177400886a6f)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
